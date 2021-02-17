@@ -1,1 +1,1 @@
-# Simple-Ordered-List-in-C
+# Simple-Ordered-Queue-in-C
